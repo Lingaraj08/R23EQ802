@@ -14,8 +14,8 @@ To get started with the application, follow these steps:
 
 1. **Clone the repository**:
    ```
-   git clone <repository-url>
-   cd social-media-analytics-app
+   [git clone https://github.com/Lingaraj08/R23EQ802.git
+   cd socialanalytics
    ```
 
 2. **Install dependencies**:
